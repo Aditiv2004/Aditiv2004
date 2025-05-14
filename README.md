@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Aditi Vishwakarma</h1>
+<h3 align="center">Aspiring Full-Stack Developer | Passionate about solving real-world problems with code</h3>
+<br>
 🛠️ I’m currently working on:
 - Ticket Besad: A Ticket Issue Resolver platform (Django + MySQL).
 - An Android app to demonstrate various event listeners.
